@@ -1,0 +1,42 @@
+.SignUp {
+  margin-top: 100px;
+}
+
+.container {
+  width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.headerLogin {
+  font-weight: bold;
+}
+
+.headerLogin p {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.lblDiv {
+  margin-bottom: 20px;
+}
+
+.lblDiv input {
+  padding: 8px 0px;
+  border-radius: 5px;
+  width: 99%;
+}
+
+.lblDiv p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+button {
+  background-color: #006ce6;
+  padding: 12px 20px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100%;
+}

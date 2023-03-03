@@ -1,0 +1,57 @@
+.Login{
+    margin-top: 200px;
+}
+
+.container{
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.headerLogin{
+    font-weight: bold;
+}
+
+.headerLogin p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.emailDiv{
+    margin-bottom: 20px;
+}
+
+.emailDiv input{
+    padding: 8px 0px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+.emailDiv p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.passwordDiv{
+    margin-bottom: 20px;
+}
+
+.passwordDiv input{
+    padding: 8px 0px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+.passwordDiv p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+button{
+    background-color: #006CE6;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 100%;
+}
