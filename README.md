@@ -26,10 +26,3 @@ Card: It is added for good display and to customize the different sections of th
 Close button: This component is added to dismiss the alerts of the modals. 
 
 Footer: Footer component is also added in the website. 
-
-Team members:-
-Jatin Parmar |
-Vidhi Patel |
-Sanjay Tholani |
-Ashish Shethia |
-Anish Ashtaputre
