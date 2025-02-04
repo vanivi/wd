@@ -1,4 +1,4 @@
-# INFO-6150-Final_Project
+# Tree Trips Website
 Tree Trips is an online website which is focused on helping the users find places to stay at while they travel to a new place. It filters the places based on the user requests and finds a best place to book in the span of seconds. It is basically a one stop destination to plan out the whole vacation with the best deals.  
 
 We have created the landing page of our website, login/sign up page, hotel description page, search page and the payment page. 
